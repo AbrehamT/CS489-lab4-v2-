@@ -1,0 +1,8 @@
+[0.000000] (-) TimerEvent: {}
+[0.000108] (-) JobUnselected: {'identifier': 'abreham_safety_node'}
+[0.000125] (-) JobUnselected: {'identifier': 'f1tenth_gym_ros'}
+[0.000135] (-) JobUnselected: {'identifier': 'launcher_pkg'}
+[0.000143] (-) JobUnselected: {'identifier': 'oscar_safety_node'}
+[0.000151] (-) JobUnselected: {'identifier': 'richard_safety_node'}
+[0.000158] (-) JobUnselected: {'identifier': 'wall_follow'}
+[0.000166] (-) EventReactorShutdown: {}
